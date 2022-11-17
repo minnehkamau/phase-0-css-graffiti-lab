@@ -1,1 +1,20 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+#wall #tag-4 {
+    display: none;
+}
+body {
+  background-color: whitesmoke;  
+}
+#wall {
+border-bottom: 60px solid black;
+border:black;
+}
+div#wall .parent#tag-5.slick {
+    display: none;
+}
+div#wall div.parent div:last-child div#tag-6 {
+    display:none;
+}
